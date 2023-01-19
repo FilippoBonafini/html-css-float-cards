@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.box-app{
+    width: 1140px;
+    margin: auto;
+
+}
 /* TESTI */
 
 .text-important{
@@ -21,4 +26,9 @@
     color: #e53170 ;
 }
 
+.paragrafo .text-normal{
+    padding: 65px 0 50px;
+    text-align: center;
+    font-size: 1.11em;
+}
 /* /TESTI */

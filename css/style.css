@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* TESTI */
+
+.text-important{
+    font-family: 'Fredoka One', cursive;
+}
+
+.text-normal{
+    font-family: 'Exo 2', sans-serif;
+}
+
+/* /TESTI */

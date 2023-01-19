@@ -13,7 +13,6 @@
 
 
 
-
 /* TESTI */
 
 .text-important{
@@ -67,7 +66,7 @@
     width: calc((100% / 3) - 20px);
     -webkit-box-shadow: -2px 1px 15px 1px rgba(0,0,0,0.67); 
     box-shadow: -2px 1px 15px 1px rgba(0,0,0,0.67);
-    border-radius: 50% 10px 10px 50%;
+    border-radius: 100px 10px 10px 100px;
 }
 
 .contenitore-principale .box:nth-child(3n+0) {
@@ -100,3 +99,38 @@ img{
 }
 
 /* /IMG  */
+
+
+.test-neon {
+    font-family: 'Fredoka One', cursive;
+    color: #fff;
+    text-shadow:
+        0 0 7px #e53170,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 25px #e53170,
+        0 0 29px #e53170,
+        0 0 33px #e53170;
+        /* 0 0 37px #e53170,
+        0 0 40px #e53170;
+        /* 0 0 45px #e53170,
+        0 0 48px #e53170,
+        0 0 51px #e53170,
+        0 0 92px #e53170,
+        0 0 102px #e53170,
+        0 0 110px #e53170,
+        0 0 119px #e53170,
+        0 0 124px #e53170,
+        0 0 130px #e53170,
+        0 0 140px #e53170,
+        0 0 145px #e53170,
+        0 0 151px #e53170; */ 
+}
+
+.extra{
+    background-color: #0f0e17;
+    padding: 200px;
+    margin: auto;
+    text-align: center;
+    margin-top: 120px;
+}

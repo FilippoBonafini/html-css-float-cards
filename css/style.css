@@ -14,4 +14,11 @@
     font-family: 'Exo 2', sans-serif;
 }
 
+.sottotitolo .text-important {
+    padding-top: 50px;
+    font-size: 35px ;
+    text-align: center;
+    color: #e53170 ;
+}
+
 /* /TESTI */

@@ -30,6 +30,23 @@
 .box .mail-box{
     text-decoration: none;
     color: #6ecbf2;
+    text-shadow:
+    0 0 7px #6ecbf2,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 25px #6ecbf2;
+
+}
+
+.box .mail-box:hover{
+    color: #fff;
+    text-shadow:
+        0 0 7px #e53170,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 25px #e53170,
+        0 0 29px #e53170,
+        0 0 33px #e53170;
 }
 
 .sottotitolo .text-important {

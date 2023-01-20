@@ -88,7 +88,7 @@
 
 /* IMG  */
 
-img{
+.box img{
     float: left;
     display: block;
     height: 100px;

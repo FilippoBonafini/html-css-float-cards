@@ -71,14 +71,14 @@
 
 .contenitore-principale .box:nth-child(3n+0) {
     margin: 50px 0 0 0;
-  }
+}
 
-  .box .content-pagina{
+.box .content-pagina{
     margin:  13px 0 0 22px;
     display: inline-block; 
     width: calc(70% - 15px);
     line-height :25px;
-  }
+}
 
 /* /FLOAT  */
 
